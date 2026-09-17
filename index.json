@@ -1,1 +1,195 @@
-{"name":"Dost","badgeLabel":"DOST","signingKey":"","contact":{},"extensionList":{"extensions":[]}}
+{
+  "name": "Dost",
+  "badgeLabel": "DOST",
+  "signingKey": "76ED637405CA747D6AF3CD6433C11FD764E1C3B78B6204923059A726B1367B6C",
+  "contact": {
+    "website": "https://github.com/avustr-code"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Manhuarm",
+        "packageName": "eu.kanade.tachiyomi.extension.all.manhuarm",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-all.manhuarm-v1.4.77.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/all/manhuarm/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-all.manhuarm-v1.4.77.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "104077",
+        "versionName": "1.4.77",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "797946349800265191",
+            "name": "Manhuarm",
+            "language": "ar",
+            "homeUrl": "https://manhuarmtl.com"
+          },
+          {
+            "id": "7690709834650404718",
+            "name": "Manhuarm",
+            "language": "en",
+            "homeUrl": "https://manhuarmtl.com"
+          },
+          {
+            "id": "8547169224512757621",
+            "name": "Manhuarm",
+            "language": "es",
+            "homeUrl": "https://manhuarmtl.com"
+          },
+          {
+            "id": "8537659881437820380",
+            "name": "Manhuarm",
+            "language": "fr",
+            "homeUrl": "https://manhuarmtl.com"
+          },
+          {
+            "id": "6421419166134585378",
+            "name": "Manhuarm",
+            "language": "id",
+            "homeUrl": "https://manhuarmtl.com"
+          },
+          {
+            "id": "7611240442736670513",
+            "name": "Manhuarm",
+            "language": "it",
+            "homeUrl": "https://manhuarmtl.com"
+          },
+          {
+            "id": "5618121635049025093",
+            "name": "Manhuarm",
+            "language": "pt-BR",
+            "homeUrl": "https://manhuarmtl.com"
+          }
+        ]
+      },
+      {
+        "name": "Comick",
+        "packageName": "eu.kanade.tachiyomi.extension.en.comick",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-en.comick-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/en/comick/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-en.comick-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5589185334583680787",
+            "name": "Comick",
+            "language": "en",
+            "homeUrl": "https://comick.dev"
+          }
+        ]
+      },
+      {
+        "name": "Novatoon",
+        "packageName": "eu.kanade.tachiyomi.extension.en.novatoon",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-en.novatoon-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/en/novatoon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-en.novatoon-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3254222168243176446",
+            "name": "Novatoon",
+            "language": "en",
+            "homeUrl": "https://novatoon.com"
+          }
+        ]
+      },
+      {
+        "name": "GoodToon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.goodtoon",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-ko.goodtoon-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/ko/goodtoon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-ko.goodtoon-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2738031143723682744",
+            "name": "GoodToon",
+            "language": "ko",
+            "homeUrl": "https://www.goodtoon004.com"
+          }
+        ]
+      },
+      {
+        "name": "NewXToon",
+        "packageName": "eu.kanade.tachiyomi.extension.ko.newxtoon",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-ko.newxtoon-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/ko/newxtoon/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-ko.newxtoon-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1562897350957827542",
+            "name": "NewXToon",
+            "language": "ko",
+            "homeUrl": "https://newxtoon1.com"
+          }
+        ]
+      },
+      {
+        "name": "Black Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.th.blackmanga",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-th.blackmanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/th/blackmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-th.blackmanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3395016009613507616",
+            "name": "Black Manga",
+            "language": "th",
+            "homeUrl": "https://www.black-manga.com"
+          }
+        ]
+      },
+      {
+        "name": "Ped Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.th.pedmanga",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-th.pedmanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/th/pedmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/44c22d1/tachiyomi-th.pedmanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7237429246007433080",
+            "name": "Ped Manga",
+            "language": "th",
+            "homeUrl": "https://ped-manga.com"
+          }
+        ]
+      }
+    ]
+  }
+}

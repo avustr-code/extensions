@@ -1,0 +1,72 @@
+{
+  "eu.kanade.tachiyomi.extension.all.manhuarm": {
+    "apk": {
+      "name": "tachiyomi-all.manhuarm-v1.4.77.apk",
+      "sha256": "ccb62160910a62ae65873de2e515c35639f8597b34de0e7d673e49fa1c549c8c"
+    },
+    "jar": {
+      "name": "tachiyomi-all.manhuarm-v1.4.77.jar",
+      "sha256": "b9ff8444b0bc664e6ca99c6d22b515c2cf8260e0add06b5445e45da34f2d7baf"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.comick": {
+    "apk": {
+      "name": "tachiyomi-en.comick-v1.6.1.apk",
+      "sha256": "dd1451f60e072b44701bc6486b1ee6513f8dc1569dc9479e7c8eb8c8da287902"
+    },
+    "jar": {
+      "name": "tachiyomi-en.comick-v1.6.1.jar",
+      "sha256": "fffd5f2eb801827158d262ab39ec9473ef0b77ce6fabffab6619a4a157e8f4f0"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.en.novatoon": {
+    "apk": {
+      "name": "tachiyomi-en.novatoon-v1.6.1.apk",
+      "sha256": "e2dadaf08bb51813c87bd9ca77b59178aed9f6cfdecad7f2c18293f8cb492001"
+    },
+    "jar": {
+      "name": "tachiyomi-en.novatoon-v1.6.1.jar",
+      "sha256": "b75a730b7b9f7e47c22b1d649f89733e90371b8d86557495ed0b41a046c7c96f"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.ko.goodtoon": {
+    "apk": {
+      "name": "tachiyomi-ko.goodtoon-v1.6.1.apk",
+      "sha256": "153243c47f40673e1ce649c9bfa8b1b0a4ccff40d888572f361c9d9738678af9"
+    },
+    "jar": {
+      "name": "tachiyomi-ko.goodtoon-v1.6.1.jar",
+      "sha256": "b7d831c7c053acc2d2bf1723e921b6dfc33c79fba6e9c44d2152d056a30fda9d"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.ko.newxtoon": {
+    "apk": {
+      "name": "tachiyomi-ko.newxtoon-v1.6.1.apk",
+      "sha256": "216424b9599b39ad9a5dfe8bd61beb7b47b927cc08e7b7d6be542da867448280"
+    },
+    "jar": {
+      "name": "tachiyomi-ko.newxtoon-v1.6.1.jar",
+      "sha256": "a2ed1255f3f4d33ab9defcf44aba3d80fec166f15b67921ed1c66c90e90c0698"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.th.blackmanga": {
+    "apk": {
+      "name": "tachiyomi-th.blackmanga-v1.6.1.apk",
+      "sha256": "1d290ee4cfe9a138c5579a5a0c715312ec96bda45306679afc5e2458fe79d84f"
+    },
+    "jar": {
+      "name": "tachiyomi-th.blackmanga-v1.6.1.jar",
+      "sha256": "aa627128edb30cc40cbfdf75bb809d6ed85cd10760ef3226a73c8f182ed78d8a"
+    }
+  },
+  "eu.kanade.tachiyomi.extension.th.pedmanga": {
+    "apk": {
+      "name": "tachiyomi-th.pedmanga-v1.6.1.apk",
+      "sha256": "cb24fe29538c963881d37203c398d8dd96595d87a32bbd8e60ada4a6779584d5"
+    },
+    "jar": {
+      "name": "tachiyomi-th.pedmanga-v1.6.1.jar",
+      "sha256": "2feae2c62b20bf8293b695869350a224e464059807d76f5452cf5eb87d9c3ac6"
+    }
+  }
+}
