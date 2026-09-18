@@ -68,15 +68,5 @@
       "name": "tachiyomi-th.pedmanga-v1.6.1.jar",
       "sha256": "2feae2c62b20bf8293b695869350a224e464059807d76f5452cf5eb87d9c3ac6"
     }
-  },
-  "eu.kanade.tachiyomi.extension.vi.moetruyen": {
-    "apk": {
-      "name": "tachiyomi-vi.moetruyen-v1.6.13.apk",
-      "sha256": "b3d8e0ab3bbd7cbea3c201519d2e2782e661867d98154eecee9f77b60c29cc16"
-    },
-    "jar": {
-      "name": "tachiyomi-vi.moetruyen-v1.6.13.jar",
-      "sha256": "2b0fad0a562dab69e4e3175700cffa9813706f49eb52405459a9a8fa5f04fd94"
-    }
   }
 }

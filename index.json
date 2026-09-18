@@ -189,31 +189,6 @@
             "homeUrl": "https://ped-manga.com"
           }
         ]
-      },
-      {
-        "name": "MoeTruyen",
-        "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
-        "resources": {
-          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/bf30f64/tachiyomi-vi.moetruyen-v1.6.13.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/bf30f64/tachiyomi-vi.moetruyen-v1.6.13.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106013",
-        "versionName": "1.6.13",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8689080191405841403",
-            "name": "MoeTruyen",
-            "language": "vi",
-            "homeUrl": "https://moetruyen.net",
-            "mirrorUrls": [
-              "https://moetruyen.net",
-              "https://truyen.moe"
-            ]
-          }
-        ]
       }
     ]
   }
