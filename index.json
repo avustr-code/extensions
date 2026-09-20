@@ -107,6 +107,48 @@
         ]
       },
       {
+        "name": "Ikigai Mangas",
+        "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-es.ikigaimangas-v1.6.37.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-es.ikigaimangas-v1.6.37.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7749406396573482811",
+            "name": "Ikigai Mangas",
+            "language": "es",
+            "homeUrl": "https://visorikigai.gettocaboca.com"
+          }
+        ]
+      },
+      {
+        "name": "LectorJPG",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lectorjpg",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-es.lectorjpg-v1.6.50.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/es/lectorjpg/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-es.lectorjpg-v1.6.50.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106050",
+        "versionName": "1.6.50",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4439526602175493484",
+            "name": "LectorJPG",
+            "language": "es",
+            "homeUrl": "https://visorjpg.lat"
+          }
+        ]
+      },
+      {
         "name": "GoodToon",
         "packageName": "eu.kanade.tachiyomi.extension.ko.goodtoon",
         "resources": {
@@ -131,13 +173,13 @@
         "name": "\uc9ed\ud230 (Jjaptoon)",
         "packageName": "eu.kanade.tachiyomi.extension.ko.jjaptoon",
         "resources": {
-          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/0592cf9/tachiyomi-ko.jjaptoon-v1.6.1.apk",
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-ko.jjaptoon-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/ko/jjaptoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/0592cf9/tachiyomi-ko.jjaptoon-v1.6.1.jar"
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-ko.jjaptoon-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -239,6 +281,27 @@
         ]
       },
       {
+        "name": "Nekopost",
+        "packageName": "eu.kanade.tachiyomi.extension.th.nekopost",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-th.nekopost-v1.6.15.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/th/nekopost/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-th.nekopost-v1.6.15.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4353470354941192417",
+            "name": "Nekopost",
+            "language": "th",
+            "homeUrl": "https://www.nekopost.net"
+          }
+        ]
+      },
+      {
         "name": "Ped Manga",
         "packageName": "eu.kanade.tachiyomi.extension.th.pedmanga",
         "resources": {
@@ -256,6 +319,31 @@
             "name": "Ped Manga",
             "language": "th",
             "homeUrl": "https://ped-manga.com"
+          }
+        ]
+      },
+      {
+        "name": "MoeTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
+        "resources": {
+          "apkUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-vi.moetruyen-v1.6.13.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/avustr-code/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/avustr-code/extensions/releases/download/9e34441/tachiyomi-vi.moetruyen-v1.6.13.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106013",
+        "versionName": "1.6.13",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8689080191405841403",
+            "name": "MoeTruyen",
+            "language": "vi",
+            "homeUrl": "https://moetruyen.net",
+            "mirrorUrls": [
+              "https://moetruyen.net",
+              "https://truyen.moe"
+            ]
           }
         ]
       }
