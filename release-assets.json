@@ -29,26 +29,6 @@
       "sha256": "b75a730b7b9f7e47c22b1d649f89733e90371b8d86557495ed0b41a046c7c96f"
     }
   },
-  "eu.kanade.tachiyomi.extension.es.ikigaimangas": {
-    "apk": {
-      "name": "tachiyomi-es.ikigaimangas-v1.6.37.apk",
-      "sha256": "e7a450ffc0fe399bfe6c609fcfb1b79ecdfa81596584f481cdb184516b7793f1"
-    },
-    "jar": {
-      "name": "tachiyomi-es.ikigaimangas-v1.6.37.jar",
-      "sha256": "c7648d52eb82f717e2bbdadcbb851c824fe5797054e2c9ddea53c4638bac469e"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.es.lectorjpg": {
-    "apk": {
-      "name": "tachiyomi-es.lectorjpg-v1.6.50.apk",
-      "sha256": "9d06d0062240a249b43779cb2957b651ab574a3f391506d1e09ce726365cd5f3"
-    },
-    "jar": {
-      "name": "tachiyomi-es.lectorjpg-v1.6.50.jar",
-      "sha256": "be0620bfbb08e30f6700bd753d055a20397b70d209d8ec1365c6ad8e00ea36d4"
-    }
-  },
   "eu.kanade.tachiyomi.extension.ko.goodtoon": {
     "apk": {
       "name": "tachiyomi-ko.goodtoon-v1.6.1.apk",
@@ -109,16 +89,6 @@
       "sha256": "aa627128edb30cc40cbfdf75bb809d6ed85cd10760ef3226a73c8f182ed78d8a"
     }
   },
-  "eu.kanade.tachiyomi.extension.th.nekopost": {
-    "apk": {
-      "name": "tachiyomi-th.nekopost-v1.6.15.apk",
-      "sha256": "2a0cb6f7d22bc422c325beebb166bcf9954e59162e3756da98692538cbc9cda2"
-    },
-    "jar": {
-      "name": "tachiyomi-th.nekopost-v1.6.15.jar",
-      "sha256": "ee457d559e81f93a3292921d45b258ea8d612ef7ee2f98e6863f1535205def94"
-    }
-  },
   "eu.kanade.tachiyomi.extension.th.pedmanga": {
     "apk": {
       "name": "tachiyomi-th.pedmanga-v1.6.1.apk",
@@ -127,16 +97,6 @@
     "jar": {
       "name": "tachiyomi-th.pedmanga-v1.6.1.jar",
       "sha256": "2feae2c62b20bf8293b695869350a224e464059807d76f5452cf5eb87d9c3ac6"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.vi.moetruyen": {
-    "apk": {
-      "name": "tachiyomi-vi.moetruyen-v1.6.13.apk",
-      "sha256": "b3d8e0ab3bbd7cbea3c201519d2e2782e661867d98154eecee9f77b60c29cc16"
-    },
-    "jar": {
-      "name": "tachiyomi-vi.moetruyen-v1.6.13.jar",
-      "sha256": "2b0fad0a562dab69e4e3175700cffa9813706f49eb52405459a9a8fa5f04fd94"
     }
   }
 }
