@@ -11,12 +11,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.comick": {
     "apk": {
-      "name": "tachiyomi-en.comick-v1.6.1.apk",
-      "sha256": "dd1451f60e072b44701bc6486b1ee6513f8dc1569dc9479e7c8eb8c8da287902"
+      "name": "tachiyomi-en.comick-v1.6.2.apk",
+      "sha256": "636e84d27c3534483bf2183673717ab2aff2958f7482967a60c4a04beb426cc0"
     },
     "jar": {
-      "name": "tachiyomi-en.comick-v1.6.1.jar",
-      "sha256": "fffd5f2eb801827158d262ab39ec9473ef0b77ce6fabffab6619a4a157e8f4f0"
+      "name": "tachiyomi-en.comick-v1.6.2.jar",
+      "sha256": "7de5cb8e6fad1d89b39e0cac70286bd889b99186df6070811f7348d3d15c93aa"
     }
   },
   "eu.kanade.tachiyomi.extension.en.novatoon": {
@@ -62,11 +62,11 @@
   "eu.kanade.tachiyomi.extension.th.pedmanga": {
     "apk": {
       "name": "tachiyomi-th.pedmanga-v1.6.1.apk",
-      "sha256": "cb24fe29538c963881d37203c398d8dd96595d87a32bbd8e60ada4a6779584d5"
+      "sha256": "bac213f4472319c0e71583cd248b7c28c2e621b25aebf612133cc428e94edbc2"
     },
     "jar": {
       "name": "tachiyomi-th.pedmanga-v1.6.1.jar",
-      "sha256": "2feae2c62b20bf8293b695869350a224e464059807d76f5452cf5eb87d9c3ac6"
+      "sha256": "d2cc5e70828056399f0202e42e791ff5857db29e8e558b03e9079476989eccf1"
     }
   }
 }
