@@ -29,16 +29,6 @@
       "sha256": "b75a730b7b9f7e47c22b1d649f89733e90371b8d86557495ed0b41a046c7c96f"
     }
   },
-  "eu.kanade.tachiyomi.extension.ko.goodtoon": {
-    "apk": {
-      "name": "tachiyomi-ko.goodtoon-v1.6.1.apk",
-      "sha256": "153243c47f40673e1ce649c9bfa8b1b0a4ccff40d888572f361c9d9738678af9"
-    },
-    "jar": {
-      "name": "tachiyomi-ko.goodtoon-v1.6.1.jar",
-      "sha256": "b7d831c7c053acc2d2bf1723e921b6dfc33c79fba6e9c44d2152d056a30fda9d"
-    }
-  },
   "eu.kanade.tachiyomi.extension.ko.jjaptoon": {
     "apk": {
       "name": "tachiyomi-ko.jjaptoon-v1.6.2.apk",
@@ -47,26 +37,6 @@
     "jar": {
       "name": "tachiyomi-ko.jjaptoon-v1.6.2.jar",
       "sha256": "7564219b7c56ef178f6375da4293c72dd31c4c582e879aa024e485c9ed71f45b"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.ko.newxtoon": {
-    "apk": {
-      "name": "tachiyomi-ko.newxtoon-v1.6.1.apk",
-      "sha256": "216424b9599b39ad9a5dfe8bd61beb7b47b927cc08e7b7d6be542da867448280"
-    },
-    "jar": {
-      "name": "tachiyomi-ko.newxtoon-v1.6.1.jar",
-      "sha256": "a2ed1255f3f4d33ab9defcf44aba3d80fec166f15b67921ed1c66c90e90c0698"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.ko.wolfdotcom": {
-    "apk": {
-      "name": "tachiyomi-ko.wolfdotcom-v1.6.6.apk",
-      "sha256": "93cf7b7fc12e3db21ce9b3070453facc4a4efd404855ffc38effd81373544bfa"
-    },
-    "jar": {
-      "name": "tachiyomi-ko.wolfdotcom-v1.6.6.jar",
-      "sha256": "988502d9326a5ad7bdcebc1fb9382a136796dc032d78563d26a83b06de7fa397"
     }
   },
   "eu.kanade.tachiyomi.extension.ru.remanga": {
